@@ -11,3 +11,11 @@ You need python xlwt Module installed globally:
 ```sh
 $  pip install xlwt
 ```
+
+If gobally is not possible , you can install within a virtualenv:
+
+```sh
+$ virtualenv myenv
+$ source myenv/bin/activate
+$ pip install xlwt
+  ```
