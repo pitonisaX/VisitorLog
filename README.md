@@ -19,3 +19,11 @@ $ virtualenv myenv
 $ source myenv/bin/activate
 $ pip install xlwt
   ```
+### Todos
+
+ - Write Tests
+
+License
+----
+
+MIT
